@@ -12,7 +12,7 @@ export default function TrackedCTALink({
   children: React.ReactNode;
 }) {
   const CTA_LINK =
-    "https://www.rajaa7.com/share/agent/AA6TEGU5?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0=";
+    "https://share-rxapq9cajg.raja7.org/share/agent/AA0RWJKX?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0=";
 
   return (
     <a

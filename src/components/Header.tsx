@@ -7,7 +7,7 @@ import { useRouter } from "next/navigation";
 import MobileMenu from "./MobileMenu";
 import { trackCTAClick, trackNavClick } from "@/lib/gtag";
 
-const CTA_LINK = "https://www.rajaa7.com/share/agent/AA6TEGU5?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0=";
+const CTA_LINK = "https://share-rxapq9cajg.raja7.org/share/agent/AA0RWJKX?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0=";
 
 const navLinks = [
   { name: "Home", href: "/" },
